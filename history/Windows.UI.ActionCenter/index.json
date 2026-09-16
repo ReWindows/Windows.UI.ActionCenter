@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.UI.ActionCenter.dll",
+  "latest": "731737156-C0DAB2D26B6BB2465AEC9970A6EE6AC5-1",
+  "builds": [
+    {
+      "key": "731737156-C0DAB2D26B6BB2465AEC9970A6EE6AC5-1",
+      "timestamp": "731737156",
+      "pdb_guid": "C0DAB2D26B6BB2465AEC9970A6EE6AC5",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/731737156-C0DAB2D26B6BB2465AEC9970A6EE6AC5-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
